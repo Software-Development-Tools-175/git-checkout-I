@@ -1,5 +1,6 @@
 println("Welcome to week 4: git checkout\n")
 println("This is commit one\n")
+println("This line is added for commit two\n")
 
 function mandelbrot(a)
     z = 0
